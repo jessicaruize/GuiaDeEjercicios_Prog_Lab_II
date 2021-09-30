@@ -1,0 +1,5 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ApuntesClase\obj\Debug\net5.0\ApuntesDeClase.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ApuntesClase\obj\Debug\net5.0\ApuntesDeClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ApuntesClase\obj\Debug\net5.0\ApuntesDeClase.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ApuntesClase\obj\Debug\net5.0\ApuntesDeClase.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ApuntesClase\obj\Debug\net5.0\ApuntesDeClase.csproj.CoreCompileInputs.cache

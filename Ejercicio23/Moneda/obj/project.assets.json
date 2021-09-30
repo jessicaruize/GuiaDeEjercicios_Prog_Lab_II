@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\WinFormsApp1\\Moneda\\Moneda.csproj",
+      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio23\\Moneda\\Moneda.csproj",
       "projectName": "Moneda",
-      "projectPath": "C:\\Users\\jessi\\source\\repos\\WinFormsApp1\\Moneda\\Moneda.csproj",
+      "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio23\\Moneda\\Moneda.csproj",
       "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jessi\\source\\repos\\WinFormsApp1\\Moneda\\obj\\",
+      "outputPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio23\\Moneda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

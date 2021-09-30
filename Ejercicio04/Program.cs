@@ -15,14 +15,14 @@ namespace Ejercicio04
             Console.Write("Los primeros 4 numeros perfectos son: ");
             do
             {
-                for(int i = 1; i < numero; i++)
+                for (int i = 1; i < numero; i++)
                 {
-                    if((numero % i) == 0)
+                    if ((numero % i) == 0)
                     {
                         acumulador += i;
                     }
                 }
-                if(acumulador == numero)
+                if (acumulador == numero)
                 {
                     Console.Write($"{numero} - ");
                     contador++;

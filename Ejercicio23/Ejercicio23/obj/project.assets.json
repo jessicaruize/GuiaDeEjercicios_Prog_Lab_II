@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\WinFormsApp1\\Ejercicio23\\Ejercicio23.csproj",
+      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio23\\Ejercicio23\\Ejercicio23.csproj",
       "projectName": "Ejercicio23",
-      "projectPath": "C:\\Users\\jessi\\source\\repos\\WinFormsApp1\\Ejercicio23\\Ejercicio23.csproj",
+      "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio23\\Ejercicio23\\Ejercicio23.csproj",
       "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jessi\\source\\repos\\WinFormsApp1\\Ejercicio23\\obj\\",
+      "outputPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio23\\Ejercicio23\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\jessi\\source\\repos\\WinFormsApp1\\Moneda\\Moneda.csproj": {
-              "projectPath": "C:\\Users\\jessi\\source\\repos\\WinFormsApp1\\Moneda\\Moneda.csproj"
+            "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio23\\Moneda\\Moneda.csproj": {
+              "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio23\\Moneda\\Moneda.csproj"
             }
           }
         }

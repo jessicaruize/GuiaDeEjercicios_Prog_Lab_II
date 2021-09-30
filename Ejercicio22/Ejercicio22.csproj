@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Ejercicio13\Ejercicio13.csproj" />
-    <ProjectReference Include="..\Entidades\Entidades.csproj" />
   </ItemGroup>
 
 </Project>

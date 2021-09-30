@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Ejercicio22/1.0.0": {
         "dependencies": {
-          "Ejercicio13": "1.0.0",
-          "Entidades": "1.0.0"
+          "Ejercicio13": "1.0.0"
         },
         "runtime": {
           "Ejercicio22.dll": {}
@@ -18,14 +17,6 @@
       "Ejercicio13/1.0.0": {
         "runtime": {
           "Ejercicio13.dll": {}
-        }
-      },
-      "Entidades/1.0.0": {
-        "dependencies": {
-          "Ejercicio13": "1.0.0"
-        },
-        "runtime": {
-          "Entidades.dll": {}
         }
       }
     }
@@ -37,11 +28,6 @@
       "sha512": ""
     },
     "Ejercicio13/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Entidades/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

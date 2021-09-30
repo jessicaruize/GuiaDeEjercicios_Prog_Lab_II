@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteca
 {
-    class Calculadora
+    public class Calculadora
     {
         /// <summary>
         /// Calcula dos numero y retorna el resultado

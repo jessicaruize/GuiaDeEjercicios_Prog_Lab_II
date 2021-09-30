@@ -1,0 +1,16 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\bin\Debug\net5.0\01ProbarCodigo.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\bin\Debug\net5.0\01ProbarCodigo.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\bin\Debug\net5.0\01ProbarCodigo.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\bin\Debug\net5.0\01ProbarCodigo.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\bin\Debug\net5.0\01ProbarCodigo.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\bin\Debug\net5.0\ref\01ProbarCodigo.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\bin\Debug\net5.0\01ProbarCodigo.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\obj\Debug\net5.0\01ProbarCodigo.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\obj\Debug\net5.0\01ProbarCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\obj\Debug\net5.0\01ProbarCodigo.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\obj\Debug\net5.0\01ProbarCodigo.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\obj\Debug\net5.0\01ProbarCodigo.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\obj\Debug\net5.0\01ProbarCodigo.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\obj\Debug\net5.0\ref\01ProbarCodigo.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\obj\Debug\net5.0\01ProbarCodigo.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\ConsoleApp1\obj\Debug\net5.0\01ProbarCodigo.genruntimeconfig.cache

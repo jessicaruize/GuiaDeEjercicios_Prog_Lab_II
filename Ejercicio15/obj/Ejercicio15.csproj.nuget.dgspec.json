@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jessi\\source\\repos\\Ejercicio01\\Ejercicio15\\Ejercicio15.csproj": {}
+    "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio15\\Ejercicio15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jessi\\source\\repos\\Ejercicio01\\Ejercicio15\\Ejercicio15.csproj": {
+    "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio15\\Ejercicio15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\Ejercicio01\\Ejercicio15\\Ejercicio15.csproj",
+        "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio15\\Ejercicio15.csproj",
         "projectName": "Ejercicio15",
-        "projectPath": "C:\\Users\\jessi\\source\\repos\\Ejercicio01\\Ejercicio15\\Ejercicio15.csproj",
+        "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio15\\Ejercicio15.csproj",
         "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jessi\\source\\repos\\Ejercicio01\\Ejercicio15\\obj\\",
+        "outputPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio15\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

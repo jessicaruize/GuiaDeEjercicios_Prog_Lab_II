@@ -1,0 +1,16 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\bin\Debug\net5.0\Ejercicio30.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\bin\Debug\net5.0\Ejercicio30.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\bin\Debug\net5.0\Ejercicio30.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\bin\Debug\net5.0\Ejercicio30.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\bin\Debug\net5.0\Ejercicio30.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\bin\Debug\net5.0\ref\Ejercicio30.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\bin\Debug\net5.0\Ejercicio30.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\obj\Debug\net5.0\Ejercicio30.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\obj\Debug\net5.0\Ejercicio30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\obj\Debug\net5.0\Ejercicio30.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\obj\Debug\net5.0\Ejercicio30.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\obj\Debug\net5.0\Ejercicio30.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\obj\Debug\net5.0\Ejercicio30.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\obj\Debug\net5.0\ref\Ejercicio30.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\obj\Debug\net5.0\Ejercicio30.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio30\obj\Debug\net5.0\Ejercicio30.genruntimeconfig.cache
