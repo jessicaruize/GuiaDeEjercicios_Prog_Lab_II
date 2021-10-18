@@ -1,0 +1,16 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\bin\Debug\net5.0\Ejercicio36-Herencia.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\bin\Debug\net5.0\Ejercicio36-Herencia.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\bin\Debug\net5.0\Ejercicio36-Herencia.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\bin\Debug\net5.0\Ejercicio36-Herencia.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\bin\Debug\net5.0\Ejercicio36-Herencia.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\bin\Debug\net5.0\ref\Ejercicio36-Herencia.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\bin\Debug\net5.0\Ejercicio36-Herencia.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\obj\Debug\net5.0\Ejercicio36-Herencia.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\obj\Debug\net5.0\Ejercicio36-Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\obj\Debug\net5.0\Ejercicio36-Herencia.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\obj\Debug\net5.0\Ejercicio36-Herencia.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\obj\Debug\net5.0\Ejercicio36-Herencia.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\obj\Debug\net5.0\Ejercicio36-Herencia.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\obj\Debug\net5.0\ref\Ejercicio36-Herencia.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\obj\Debug\net5.0\Ejercicio36-Herencia.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio36\obj\Debug\net5.0\Ejercicio36-Herencia.genruntimeconfig.cache

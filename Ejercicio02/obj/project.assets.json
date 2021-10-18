@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio02\\Ejercicio02.csproj",
-      "projectName": "Ejercicio02",
-      "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio02\\Ejercicio02.csproj",
+      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio02\\Ejercicio02-ConceptosBasicos.csproj",
+      "projectName": "Ejercicio02-ConceptosBasicos",
+      "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio02\\Ejercicio02-ConceptosBasicos.csproj",
       "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio02\\obj\\",
       "projectStyle": "PackageReference",

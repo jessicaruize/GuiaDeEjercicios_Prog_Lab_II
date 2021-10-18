@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio34-Herencia/1.0.0": {
+        "runtime": {
+          "Ejercicio34-Herencia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio34-Herencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

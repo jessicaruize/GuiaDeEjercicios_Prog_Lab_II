@@ -1,0 +1,16 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\bin\Debug\net5.0\Ejercicio52-Interfaces.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\bin\Debug\net5.0\Ejercicio52-Interfaces.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\bin\Debug\net5.0\Ejercicio52-Interfaces.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\bin\Debug\net5.0\Ejercicio52-Interfaces.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\bin\Debug\net5.0\Ejercicio52-Interfaces.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\bin\Debug\net5.0\ref\Ejercicio52-Interfaces.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\bin\Debug\net5.0\Ejercicio52-Interfaces.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\obj\Debug\net5.0\Ejercicio52-Interfaces.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\obj\Debug\net5.0\Ejercicio52-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\obj\Debug\net5.0\Ejercicio52-Interfaces.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\obj\Debug\net5.0\Ejercicio52-Interfaces.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\obj\Debug\net5.0\Ejercicio52-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\obj\Debug\net5.0\Ejercicio52-Interfaces.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\obj\Debug\net5.0\ref\Ejercicio52-Interfaces.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\obj\Debug\net5.0\Ejercicio52-Interfaces.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio52-Interfaces\obj\Debug\net5.0\Ejercicio52-Interfaces.genruntimeconfig.cache

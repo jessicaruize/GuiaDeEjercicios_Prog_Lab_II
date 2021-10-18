@@ -1,0 +1,16 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\bin\Debug\net5.0\Ejercicio32-Encapsulamiento.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\bin\Debug\net5.0\Ejercicio32-Encapsulamiento.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\bin\Debug\net5.0\Ejercicio32-Encapsulamiento.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\bin\Debug\net5.0\Ejercicio32-Encapsulamiento.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\bin\Debug\net5.0\Ejercicio32-Encapsulamiento.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\bin\Debug\net5.0\ref\Ejercicio32-Encapsulamiento.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\bin\Debug\net5.0\Ejercicio32-Encapsulamiento.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\obj\Debug\net5.0\Ejercicio32-Encapsulamiento.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\obj\Debug\net5.0\Ejercicio32-Encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\obj\Debug\net5.0\Ejercicio32-Encapsulamiento.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\obj\Debug\net5.0\Ejercicio32-Encapsulamiento.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\obj\Debug\net5.0\Ejercicio32-Encapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\obj\Debug\net5.0\Ejercicio32-Encapsulamiento.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\obj\Debug\net5.0\ref\Ejercicio32-Encapsulamiento.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\obj\Debug\net5.0\Ejercicio32-Encapsulamiento.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio32-Encapsulamiento\obj\Debug\net5.0\Ejercicio32-Encapsulamiento.genruntimeconfig.cache

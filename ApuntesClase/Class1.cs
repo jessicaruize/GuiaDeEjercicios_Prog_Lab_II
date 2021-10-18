@@ -5,7 +5,7 @@ namespace _01CladeDeIntroduccion
 {
     public class Class1
     {
-
+        
     }
 }
 /*
@@ -344,6 +344,61 @@ MIEMBROS ABSTRACTOS:
 -Las clases derivadas no abstractas seran las que DEBEN aportar una implementaciòn al mètodo.(si o si).
 -Las clases abstractas son las ùnicas que pueden contener miembros abstractos.
 -Los miembros abstractos son implicitamente virtuales, el polimorfismo aplica de igual forma.
+
+
+        10 excepciones.
+
+-Es una accion que sucede en tiempo de ejecuciòn.
+-Causadas por la logica, usuarios o errores del sistemas.
+EXCEPCIONES NO CONTROLADAS.
+    Si no se provee un mecanismo para manejar adecuadamente el programa finaliza su ejecuciòn abruptamente.
+OBJETO EXCEPTION
+    Todas las excepsiones derivan de la clase exception(parte de la base class library de .NET), 
+    permitiendo que todas las excepciones contengan mensajes descriptivos y distintas propiedades 
+    utiles para analizar errores y prevenirlos
+    Es posible crear nuestros propios tipos de excepciones heredando de la clase Exception
+PROPIEDAD innerException
+    Guarda la excepcion anterior.(Devuelve null si hay una sola excepsiòn)
+    Se deben usarinstanciandolas 
+    Si queremos tener el registro de la innerException se la tenemos que pasar como parametro.
+    Message mensaje descriptivo.
+PROPIEDAD StackTrace
+    Pila de llamadas a funciones y a metodo LIFO en un cierto tiempo.
+    Se guarda en una colleccion representando las lineas, lo metodos, las llamadas a funciones donde ocurrio una excepcion. 
+    Primero imprime la llamada que causo el error y luego imprime las llamadas previas que llevaron hasta el error(orden LIFO, la primera en la lista es la ultima, por ende es el origen del error)
+MANEJO DE EXCEPCIONES
+    C# provee palabras reservadas Try - Catch para implementar el manjeo de excepciones.
+    Try encapsula las instrucciones que podrian lanzar una excepciòn mientras el bloque catch maneja la excepciòn si alguna ocurre. 
+    Si ninguna excepcion ocurrio dentro del Try el bloque catch nunca se ejecuta y el programa continua su flujo
+    Un bloque try puede tener mas de un bloque catch, se usa cuando no estamos seguros del tipo de excepcion que se puede generar, se va a ir generando bloques desde el mas especifico al mas genèrico
+BLOQUE CATCH GENÈRICO
+    Puede capturar cualquier excepciòn independientemente de su clase
+    Se utiliza con frecuencia para capturar cualquier posible excepcin que se pudiera producir 
+     por la falta de un controlador adecuado
+    Un bloque Try solo puede tener un catch general y este debe ser el ùltimo.
+BLOQUE FINALLY 
+    Es la parte del codigo que debe ser ejecutado tanto si ocurrio una excepciòn como si no.
+    Independientemente si el bloque try se ejecuto sin errores o si ocurrio una excepcion 
+     el bloque finally siempre se va a ejecutar.
+    Nos puede ser ùtil para evitar repetir instrucciones y para liberar nuestros recursos 
+     luego de lanzar una excepcòn.(Logica que se tiene que ejecutar si o si) 
+     ejemplo en base de datos, cerrar la conexion, en archivos, cerrarlos.)
+INSTRUCCIÒN THROM
+    Una excepciòn puede ser lanzada manualmente usando la palabra reservada throw
+    Toda excepciòn derivada de la clase base Exception puede ser lanzada de esta forma.
+    Interrumpe la secuencia de ejecucion del programa y tranfiere el control al primer bloque catch que pueda hacerse cargo de esta nueva exceptciòn
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  */

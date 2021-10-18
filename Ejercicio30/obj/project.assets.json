@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio30\\Ejercicio30.csproj",
-      "projectName": "Ejercicio30",
-      "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio30\\Ejercicio30.csproj",
+      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio30\\Ejercicio30-ArrayColeccciones.csproj",
+      "projectName": "Ejercicio30-ArrayColeccciones",
+      "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio30\\Ejercicio30-ArrayColeccciones.csproj",
       "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio30\\obj\\",
       "projectStyle": "PackageReference",

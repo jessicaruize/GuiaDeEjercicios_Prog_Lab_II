@@ -1,0 +1,16 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\bin\Debug\net5.0\Ejercicio48-Generics.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\bin\Debug\net5.0\Ejercicio48-Generics.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\bin\Debug\net5.0\Ejercicio48-Generics.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\bin\Debug\net5.0\Ejercicio48-Generics.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\bin\Debug\net5.0\Ejercicio48-Generics.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\bin\Debug\net5.0\ref\Ejercicio48-Generics.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\bin\Debug\net5.0\Ejercicio48-Generics.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\obj\Debug\net5.0\Ejercicio48-Generics.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\obj\Debug\net5.0\Ejercicio48-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\obj\Debug\net5.0\Ejercicio48-Generics.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\obj\Debug\net5.0\Ejercicio48-Generics.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\obj\Debug\net5.0\Ejercicio48-Generics.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\obj\Debug\net5.0\Ejercicio48-Generics.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\obj\Debug\net5.0\ref\Ejercicio48-Generics.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\obj\Debug\net5.0\Ejercicio48-Generics.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio48-Generics\obj\Debug\net5.0\Ejercicio48-Generics.genruntimeconfig.cache

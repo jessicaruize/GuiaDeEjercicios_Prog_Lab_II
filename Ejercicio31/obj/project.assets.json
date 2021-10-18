@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "Ejercicio36/1.0.0": {
+      "Ejercicio36-Herencia/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/Ejercicio36.dll": {}
+          "bin/placeholder/Ejercicio36-Herencia.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Ejercicio36.dll": {}
+          "bin/placeholder/Ejercicio36-Herencia.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Ejercicio36/1.0.0": {
+    "Ejercicio36-Herencia/1.0.0": {
       "type": "project",
-      "path": "../Ejercicio36/Ejercicio36.csproj",
-      "msbuildProject": "../Ejercicio36/Ejercicio36.csproj"
+      "path": "../Ejercicio36/Ejercicio36-Herencia.csproj",
+      "msbuildProject": "../Ejercicio36/Ejercicio36-Herencia.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Ejercicio36 >= 1.0.0"
+      "Ejercicio36-Herencia >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio31\\Ejercicio31.csproj",
-      "projectName": "Ejercicio31",
-      "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio31\\Ejercicio31.csproj",
+      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio31\\Ejercicio31-Encapsulamiento.csproj",
+      "projectName": "Ejercicio31-Encapsulamiento",
+      "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio31\\Ejercicio31-Encapsulamiento.csproj",
       "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio31\\obj\\",
       "projectStyle": "PackageReference",
@@ -58,8 +58,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio36\\Ejercicio36.csproj": {
-              "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio36\\Ejercicio36.csproj"
+            "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio36\\Ejercicio36-Herencia.csproj": {
+              "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio36\\Ejercicio36-Herencia.csproj"
             }
           }
         }

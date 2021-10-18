@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "Ejercicio13/1.0.0": {
+      "Ejercicio13-MetodosEstaticos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/Ejercicio13.dll": {}
+          "bin/placeholder/Ejercicio13-MetodosEstaticos.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Ejercicio13.dll": {}
+          "bin/placeholder/Ejercicio13-MetodosEstaticos.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Ejercicio13/1.0.0": {
+    "Ejercicio13-MetodosEstaticos/1.0.0": {
       "type": "project",
-      "path": "../Ejercicio13/Ejercicio13.csproj",
-      "msbuildProject": "../Ejercicio13/Ejercicio13.csproj"
+      "path": "../Ejercicio13/Ejercicio13-MetodosEstaticos.csproj",
+      "msbuildProject": "../Ejercicio13/Ejercicio13-MetodosEstaticos.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Ejercicio13 >= 1.0.0"
+      "Ejercicio13-MetodosEstaticos >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio22\\Ejercicio22.csproj",
-      "projectName": "Ejercicio22",
-      "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio22\\Ejercicio22.csproj",
+      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio22\\Ejercicio22-SobrecargaDeOperadores.csproj",
+      "projectName": "Ejercicio22-SobrecargaDeOperadores",
+      "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio22\\Ejercicio22-SobrecargaDeOperadores.csproj",
       "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio22\\obj\\",
       "projectStyle": "PackageReference",
@@ -58,8 +58,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio13\\Ejercicio13.csproj": {
-              "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio13\\Ejercicio13.csproj"
+            "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio13\\Ejercicio13-MetodosEstaticos.csproj": {
+              "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio13\\Ejercicio13-MetodosEstaticos.csproj"
             }
           }
         }
