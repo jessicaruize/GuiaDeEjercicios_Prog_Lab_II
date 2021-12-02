@@ -9,15 +9,16 @@ namespace Ejercicio42
     public class MiClase
     {
         private int numero1;
+        private int numero2;
         public MiClase()
         {
             try
             {
                 MiMetodo();
             }
-            catch(Exception)
+            catch(DivideByZeroException ex)
             {
-                throw;
+                throw ex;
             }
         }
         public MiClase(int numero)
@@ -27,9 +28,9 @@ namespace Ejercicio42
             {
                 MiClase m = new MiClase();
             }
-            catch(Exception)
+            catch(DivideByZeroException ex)
             {
-
+                throw new UnaExcepcion("Una excepciòn", ex);
             }
         }
         public static float MiMetodo()

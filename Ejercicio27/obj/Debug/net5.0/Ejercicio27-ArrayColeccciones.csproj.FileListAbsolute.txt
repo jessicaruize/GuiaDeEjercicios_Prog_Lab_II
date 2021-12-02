@@ -1,0 +1,15 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\bin\Debug\net5.0\Ejercicio27-ArrayColeccciones.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\bin\Debug\net5.0\Ejercicio27-ArrayColeccciones.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\bin\Debug\net5.0\Ejercicio27-ArrayColeccciones.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\bin\Debug\net5.0\Ejercicio27-ArrayColeccciones.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\bin\Debug\net5.0\Ejercicio27-ArrayColeccciones.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\bin\Debug\net5.0\ref\Ejercicio27-ArrayColeccciones.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\bin\Debug\net5.0\Ejercicio27-ArrayColeccciones.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\obj\Debug\net5.0\Ejercicio27-ArrayColeccciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\obj\Debug\net5.0\Ejercicio27-ArrayColeccciones.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\obj\Debug\net5.0\Ejercicio27-ArrayColeccciones.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\obj\Debug\net5.0\Ejercicio27-ArrayColeccciones.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\obj\Debug\net5.0\Ejercicio27-ArrayColeccciones.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\obj\Debug\net5.0\ref\Ejercicio27-ArrayColeccciones.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\obj\Debug\net5.0\Ejercicio27-ArrayColeccciones.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio27\obj\Debug\net5.0\Ejercicio27-ArrayColeccciones.genruntimeconfig.cache

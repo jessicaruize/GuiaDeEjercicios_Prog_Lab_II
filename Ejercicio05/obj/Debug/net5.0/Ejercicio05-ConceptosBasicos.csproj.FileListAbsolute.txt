@@ -1,0 +1,16 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\bin\Debug\net5.0\Ejercicio05-ConceptosBasicos.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\bin\Debug\net5.0\Ejercicio05-ConceptosBasicos.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\bin\Debug\net5.0\Ejercicio05-ConceptosBasicos.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\bin\Debug\net5.0\Ejercicio05-ConceptosBasicos.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\bin\Debug\net5.0\Ejercicio05-ConceptosBasicos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\bin\Debug\net5.0\ref\Ejercicio05-ConceptosBasicos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\bin\Debug\net5.0\Ejercicio05-ConceptosBasicos.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\obj\Debug\net5.0\Ejercicio05-ConceptosBasicos.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\obj\Debug\net5.0\Ejercicio05-ConceptosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\obj\Debug\net5.0\Ejercicio05-ConceptosBasicos.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\obj\Debug\net5.0\Ejercicio05-ConceptosBasicos.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\obj\Debug\net5.0\Ejercicio05-ConceptosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\obj\Debug\net5.0\Ejercicio05-ConceptosBasicos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\obj\Debug\net5.0\ref\Ejercicio05-ConceptosBasicos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\obj\Debug\net5.0\Ejercicio05-ConceptosBasicos.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio05\obj\Debug\net5.0\Ejercicio05-ConceptosBasicos.genruntimeconfig.cache

@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v5.0": {
       "Ejercicio31-Encapsulamiento/1.0.0": {
         "dependencies": {
-          "Ejercicio36": "1.0.0"
+          "Ejercicio36-Herencia": "1.0.0"
         },
         "runtime": {
           "Ejercicio31-Encapsulamiento.dll": {}
         }
       },
-      "Ejercicio36/1.0.0": {
+      "Ejercicio36-Herencia/1.0.0": {
         "runtime": {
-          "Ejercicio36.dll": {}
+          "Ejercicio36-Herencia.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Ejercicio36/1.0.0": {
+    "Ejercicio36-Herencia/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

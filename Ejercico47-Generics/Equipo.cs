@@ -11,6 +11,8 @@ namespace Ejercico47_Generics
         private string nombre;
         private DateTime fechaCreacion;
 
+        public string Nombre { get => nombre; }
+
         protected Equipo(string nombre, DateTime fechaCreacion)
         {
             this.nombre = nombre;
@@ -32,10 +34,10 @@ namespace Ejercico47_Generics
         {
             return !(e1 == e2);
         }
-        public string Ficha()
+        public virtual string Ficha()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine(nombre + " fundados el " + fechaCreacion);
+            sb.AppendLine(nombre + " fundados el " + fechaCreacion.ToString("dd/mm/yyyy"));
             return sb.ToString();
         }
     }

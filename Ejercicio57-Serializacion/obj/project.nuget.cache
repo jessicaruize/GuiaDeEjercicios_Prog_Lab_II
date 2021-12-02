@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZfoHpHYmiDFna39v96L7mp1XhloCBd0IHT/qjGoJ05TdzBjdHW58/7alnPyDAHQX3yWjYCIapU+QLf0mAIhig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio57-Serializacion\\Ejercicio57-Serializacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jessi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

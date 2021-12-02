@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio10-ConceptosBasicos/1.0.0": {
+        "runtime": {
+          "Ejercicio10-ConceptosBasicos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio10-ConceptosBasicos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

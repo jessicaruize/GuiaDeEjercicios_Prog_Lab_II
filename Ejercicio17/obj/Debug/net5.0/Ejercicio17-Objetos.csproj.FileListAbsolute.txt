@@ -1,0 +1,16 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\bin\Debug\net5.0\Ejercicio17-Objetos.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\bin\Debug\net5.0\Ejercicio17-Objetos.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\bin\Debug\net5.0\Ejercicio17-Objetos.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\bin\Debug\net5.0\Ejercicio17-Objetos.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\bin\Debug\net5.0\Ejercicio17-Objetos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\bin\Debug\net5.0\ref\Ejercicio17-Objetos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\bin\Debug\net5.0\Ejercicio17-Objetos.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\obj\Debug\net5.0\Ejercicio17-Objetos.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\obj\Debug\net5.0\Ejercicio17-Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\obj\Debug\net5.0\Ejercicio17-Objetos.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\obj\Debug\net5.0\Ejercicio17-Objetos.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\obj\Debug\net5.0\Ejercicio17-Objetos.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\obj\Debug\net5.0\Ejercicio17-Objetos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\obj\Debug\net5.0\ref\Ejercicio17-Objetos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\obj\Debug\net5.0\Ejercicio17-Objetos.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio17\obj\Debug\net5.0\Ejercicio17-Objetos.genruntimeconfig.cache

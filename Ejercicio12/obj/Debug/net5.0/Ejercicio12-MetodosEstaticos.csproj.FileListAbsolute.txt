@@ -1,0 +1,16 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\bin\Debug\net5.0\Ejercicio12-MetodosEstaticos.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\bin\Debug\net5.0\Ejercicio12-MetodosEstaticos.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\bin\Debug\net5.0\Ejercicio12-MetodosEstaticos.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\bin\Debug\net5.0\Ejercicio12-MetodosEstaticos.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\bin\Debug\net5.0\Ejercicio12-MetodosEstaticos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\bin\Debug\net5.0\ref\Ejercicio12-MetodosEstaticos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\bin\Debug\net5.0\Ejercicio12-MetodosEstaticos.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\obj\Debug\net5.0\Ejercicio12-MetodosEstaticos.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\obj\Debug\net5.0\Ejercicio12-MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\obj\Debug\net5.0\Ejercicio12-MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\obj\Debug\net5.0\Ejercicio12-MetodosEstaticos.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\obj\Debug\net5.0\Ejercicio12-MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\obj\Debug\net5.0\Ejercicio12-MetodosEstaticos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\obj\Debug\net5.0\ref\Ejercicio12-MetodosEstaticos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\obj\Debug\net5.0\Ejercicio12-MetodosEstaticos.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio12\obj\Debug\net5.0\Ejercicio12-MetodosEstaticos.genruntimeconfig.cache

@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Conversor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Conversor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Conversor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversor/1.0.0": {
+      "type": "project",
+      "path": "../Conversor/Conversor.csproj",
+      "msbuildProject": "../Conversor/Conversor.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Conversor >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jessi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\Guia de ejercicios\\04- Sobrecarga de operadores\\Ejercicio - 22\\ConversorBinarioRecargado\\ConversorBinarioRecargado\\ConversorBinarioRecargado.csproj",
+      "projectName": "ConversorBinarioRecargado",
+      "projectPath": "C:\\Users\\jessi\\source\\repos\\Guia de ejercicios\\04- Sobrecarga de operadores\\Ejercicio - 22\\ConversorBinarioRecargado\\ConversorBinarioRecargado\\ConversorBinarioRecargado.csproj",
+      "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jessi\\source\\repos\\Guia de ejercicios\\04- Sobrecarga de operadores\\Ejercicio - 22\\ConversorBinarioRecargado\\ConversorBinarioRecargado\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\jessi\\source\\repos\\Guia de ejercicios\\04- Sobrecarga de operadores\\Ejercicio - 22\\ConversorBinarioRecargado\\Conversor\\Conversor.csproj": {
+              "projectPath": "C:\\Users\\jessi\\source\\repos\\Guia de ejercicios\\04- Sobrecarga de operadores\\Ejercicio - 22\\ConversorBinarioRecargado\\Conversor\\Conversor.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

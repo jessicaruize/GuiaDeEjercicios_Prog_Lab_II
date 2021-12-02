@@ -19,7 +19,7 @@ namespace Ejercicio52_Interfaces
 
         public float UnidadesDeEscritura{ get => this.tamanioMina; set => this.tamanioMina = value; }
 
-        EscrituraWrapper IAcciones.Escribir(string texto)
+        EscrituraWrapper IAcciones.Escribir(string texto) //forma explicita
         {
             if(texto.Length > 0)
             {

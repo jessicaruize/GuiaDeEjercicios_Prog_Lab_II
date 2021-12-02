@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio36
+namespace Ejercicio43_Excepciones
 {
     public class Competencia
     {
@@ -17,14 +17,13 @@ namespace Ejercicio36
         public short CantidadCompetidores { get => cantidadCompetidores; set => cantidadCompetidores = value; }
         public short CantidadVueltas { get => cantidadVueltas; set => cantidadVueltas = value; }
         public TipoCompetencia Tipo { get => tipo; set => tipo = value; }
+        
 
         private Competencia()
         {
             this.competidores = new List<VehiculoDeCarrera>();
         }
-        public  Competencia(short cantidadCompetidores, short cantidadVueltas, TipoCompetencia tipo
-            ) 
-            : this()
+        public Competencia(short cantidadCompetidores, short cantidadVueltas, TipoCompetencia tipo):this()
         {
             this.CantidadCompetidores = cantidadCompetidores;
             this.CantidadVueltas = cantidadVueltas;
@@ -36,7 +35,7 @@ namespace Ejercicio36
             cadena.AppendLine($"Cantidad de competidores: {this.CantidadCompetidores}");
             cadena.AppendLine($"Cantidad de vueltas: {this.CantidadVueltas}");
             cadena.AppendLine($"Tipo de competencia: {this.Tipo}");
-            foreach(VehiculoDeCarrera a in competidores)
+            foreach(VehiculoDeCarrera a in this.competidores)
             {
                 cadena.AppendLine($"\n{a.MostrarDatos()}");
             }

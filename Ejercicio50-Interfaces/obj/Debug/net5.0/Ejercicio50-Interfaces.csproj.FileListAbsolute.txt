@@ -1,0 +1,5 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio50-Interfaces\obj\Debug\net5.0\Ejercicio50-Interfaces.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio50-Interfaces\obj\Debug\net5.0\Ejercicio50-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio50-Interfaces\obj\Debug\net5.0\Ejercicio50-Interfaces.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio50-Interfaces\obj\Debug\net5.0\Ejercicio50-Interfaces.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio50-Interfaces\obj\Debug\net5.0\Ejercicio50-Interfaces.csproj.CoreCompileInputs.cache

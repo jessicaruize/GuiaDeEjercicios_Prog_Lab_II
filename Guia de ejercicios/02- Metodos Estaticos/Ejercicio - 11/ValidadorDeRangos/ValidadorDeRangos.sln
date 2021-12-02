@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidadorDeRangos", "ValidadorDeRangos\ValidadorDeRangos.csproj", "{87CBFD7D-DCED-4DAD-936A-E4933EA86C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{654BD81A-3B5F-49D3-9000-9093A58C3167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87CBFD7D-DCED-4DAD-936A-E4933EA86C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CBFD7D-DCED-4DAD-936A-E4933EA86C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CBFD7D-DCED-4DAD-936A-E4933EA86C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CBFD7D-DCED-4DAD-936A-E4933EA86C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654BD81A-3B5F-49D3-9000-9093A58C3167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654BD81A-3B5F-49D3-9000-9093A58C3167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654BD81A-3B5F-49D3-9000-9093A58C3167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654BD81A-3B5F-49D3-9000-9093A58C3167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C1D0D3-6421-497A-AD30-C1E90B95D7CD}
+	EndGlobalSection
+EndGlobal

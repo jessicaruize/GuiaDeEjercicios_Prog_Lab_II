@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Ejercicio12-MetodosEstaticos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ejercicio12-MetodosEstaticos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ejercicio12-MetodosEstaticos.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ejercicio12-MetodosEstaticos/1.0.0": {
+      "type": "project",
+      "path": "../Ejercicio12/Ejercicio12-MetodosEstaticos.csproj",
+      "msbuildProject": "../Ejercicio12/Ejercicio12-MetodosEstaticos.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Ejercicio12-MetodosEstaticos >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jessi\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio12\\Ejercicio12-MetodosEstaticos.csproj": {
+              "projectPath": "C:\\Users\\jessi\\source\\repos\\GuiaDeEjercicios.cs\\Ejercicio12\\Ejercicio12-MetodosEstaticos.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

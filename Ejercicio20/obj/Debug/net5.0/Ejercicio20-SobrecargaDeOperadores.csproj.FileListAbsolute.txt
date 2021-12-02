@@ -1,0 +1,15 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\bin\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\bin\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\bin\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\bin\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\bin\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\bin\Debug\net5.0\ref\Ejercicio20-SobrecargaDeOperadores.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\bin\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\obj\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\obj\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\obj\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\obj\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\obj\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\obj\Debug\net5.0\ref\Ejercicio20-SobrecargaDeOperadores.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\obj\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio20\obj\Debug\net5.0\Ejercicio20-SobrecargaDeOperadores.genruntimeconfig.cache

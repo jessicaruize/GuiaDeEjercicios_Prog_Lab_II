@@ -1,0 +1,16 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\bin\Debug\net5.0\Ejercicio43-Excepciones.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\bin\Debug\net5.0\Ejercicio43-Excepciones.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\bin\Debug\net5.0\Ejercicio43-Excepciones.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\bin\Debug\net5.0\Ejercicio43-Excepciones.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\bin\Debug\net5.0\Ejercicio43-Excepciones.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\bin\Debug\net5.0\ref\Ejercicio43-Excepciones.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\bin\Debug\net5.0\Ejercicio43-Excepciones.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\obj\Debug\net5.0\Ejercicio43-Excepciones.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\obj\Debug\net5.0\Ejercicio43-Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\obj\Debug\net5.0\Ejercicio43-Excepciones.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\obj\Debug\net5.0\Ejercicio43-Excepciones.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\obj\Debug\net5.0\Ejercicio43-Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\obj\Debug\net5.0\Ejercicio43-Excepciones.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\obj\Debug\net5.0\ref\Ejercicio43-Excepciones.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\obj\Debug\net5.0\Ejercicio43-Excepciones.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio43-Excepciones\obj\Debug\net5.0\Ejercicio43-Excepciones.genruntimeconfig.cache

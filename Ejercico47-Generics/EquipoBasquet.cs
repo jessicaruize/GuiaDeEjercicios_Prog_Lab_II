@@ -11,5 +11,9 @@ namespace Ejercico47_Generics
         public EquipoBasquet(string nombre, DateTime fechaCreacion) : base(nombre, fechaCreacion)
         {
         }
+        public override string Ficha()
+        {
+            return $"Equipo de BASQUET\n{base.Ficha()}";
+        }
     }
 }

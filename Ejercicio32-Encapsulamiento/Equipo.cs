@@ -11,6 +11,7 @@ namespace Ejercicio32
         private short cantidadDeJugadores;
         private List<Jugador> jugadores;
         private string nombre;
+
         private Equipo()
         {
             jugadores = new List<Jugador>();

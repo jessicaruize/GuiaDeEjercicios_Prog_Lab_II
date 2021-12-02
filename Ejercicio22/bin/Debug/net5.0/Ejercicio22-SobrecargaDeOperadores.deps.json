@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio22-SobrecargaDeOperadores/1.0.0": {
+        "dependencies": {
+          "Ejercicio13-MetodosEstaticos": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio22-SobrecargaDeOperadores.dll": {}
+        }
+      },
+      "Ejercicio13-MetodosEstaticos/1.0.0": {
+        "runtime": {
+          "Ejercicio13-MetodosEstaticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio22-SobrecargaDeOperadores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicio13-MetodosEstaticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

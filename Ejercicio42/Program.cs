@@ -6,7 +6,20 @@ namespace Ejercicio42
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            try
+            {
+                OtraClase c = new OtraClase();
+            }
+            catch(MiExcepcion e)
+            {
+                Exception ex = e;
+                do
+                {
+                    Console.WriteLine(ex.Message);
+                    ex = ex.InnerException;
+                } while (!object.ReferenceEquals(ex, null));
+            }
+            Console.ReadKey();
         }
     }
 }

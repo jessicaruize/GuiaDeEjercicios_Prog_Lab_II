@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ejercicio36
+namespace Ejercicio43_Excepciones
 {
     class Program
     {

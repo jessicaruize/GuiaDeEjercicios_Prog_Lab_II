@@ -1,0 +1,15 @@
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\bin\Debug\net5.0\Ejercicio16-Objetos.exe
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\bin\Debug\net5.0\Ejercicio16-Objetos.deps.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\bin\Debug\net5.0\Ejercicio16-Objetos.runtimeconfig.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\bin\Debug\net5.0\Ejercicio16-Objetos.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\bin\Debug\net5.0\Ejercicio16-Objetos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\bin\Debug\net5.0\ref\Ejercicio16-Objetos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\bin\Debug\net5.0\Ejercicio16-Objetos.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\obj\Debug\net5.0\Ejercicio16-Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\obj\Debug\net5.0\Ejercicio16-Objetos.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\obj\Debug\net5.0\Ejercicio16-Objetos.AssemblyInfo.cs
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\obj\Debug\net5.0\Ejercicio16-Objetos.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\obj\Debug\net5.0\Ejercicio16-Objetos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\obj\Debug\net5.0\ref\Ejercicio16-Objetos.dll
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\obj\Debug\net5.0\Ejercicio16-Objetos.pdb
+C:\Users\jessi\source\repos\GuiaDeEjercicios.cs\Ejercicio16\obj\Debug\net5.0\Ejercicio16-Objetos.genruntimeconfig.cache
